@@ -1,0 +1,25 @@
+APRESENTACAO AC1200 - TP-Link Archer C6 (V3)
+
+COMO ABRIR (funciona sem internet)
+1. Extraia a pasta do .zip.
+2. Abra index.html no Chrome ou Edge (duplo clique).
+3. Aperte F para tela cheia.
+4. PC fraco? Abra como index.html?lite (sem sombras, resolucao menor).
+
+CONTROLES
+-> ou Espaco : avancar        <- : voltar
+F : tela cheia                P : modo apresentador (janela separada)
+R : restaurar camera          Home / End : inicio / fim
+Mouse : arrastar gira a camera; no slide dos LEDs, clicar nas pecas mostra explicacoes.
+
+MODO APRESENTADOR
+Aperte P (permita pop-up). Abre uma janela com roteiro, proximo topico, apresentador, tempo e cronometro.
+Arraste essa janela para o notebook e a principal para o projetor (Win+P > Estender).
+As setas funcionam nas duas janelas. Tela cheia (F) so na janela principal.
+
+ANTES DE APRESENTAR
+- Salve a foto oficial do produto (tp-link.com/br, pagina do Archer C6) como assets/archer-c6.png.
+- Confira a versao na etiqueta do aparelho, se tiverem um.
+- Opcional: tirem prints do emulador oficial (emulator.tp-link.com) para mostrar telas reais.
+
+Roteiro completo: ROTEIRO.md
